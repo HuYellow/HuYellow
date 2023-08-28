@@ -28,14 +28,18 @@ CI/CD, Machine Learning & AI 🤖
 
 I'm currently focused on honing my backend skills, while remaining open to learning new skill sets for rapid growth.
 
-## Recent Post
+## Recent Post 📰
 <!-- posts start -->
 
 <!-- posts end -->
 
-## Status
+## Status 🔢
 [![HuYellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuYellow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## How to reach me 📫
+**Email 📧:** huyelong312@gmail.com || hu-yelong@qq.com
+
+**Phone 📞:** (+86) 186 7563 0213 || (+852) 6991 8215
 <!--
 **HuYellow/HuYellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
