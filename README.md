@@ -7,8 +7,8 @@ Here's some information about me:
 ## Education 📕
 |School|Major|Duration|
 |---|---|---|
-|City University of Hong Kong|Master of Science in Business & Data Analytics|2022.08-2023.10|
-|Lanzhou University|Bachelors of Engineering in Data Science and Big Data Technology|2018.09-2022.06|
+|City University of Hong Kong|Master of Science in Business & Data Analytics|2022.08 - 2023.10|
+|Lanzhou University|Bachelors of Engineering in Data Science and Big Data Technology|2018.09 - 2022.06|
 
 ## Tech Stack 🔭
 **Programming Languages:** Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), 
