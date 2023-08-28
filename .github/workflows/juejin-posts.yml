@@ -1,0 +1,23 @@
+name: Generate Juejin Posts List
+
+on:
+  push:
+    branches:
+      - main  # 或你的默认分支名
+
+jobs:
+  juejin-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Append Juejin Posts List🔧
+        uses: KunLunXu-CC/juejin-posts-action@main
+        with: 
+          user_id: "1544162868729501"
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main  # 或你的默认分支名
+          default_author: github_actions
+          message: 'juejin-posts'
