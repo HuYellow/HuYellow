@@ -47,7 +47,7 @@ I'm currently focused on honing my backend skills, while remaining open to learn
 </ul>
 <!-- posts end -->
 
-## Status 🔢
+## Stats 🔢
 [![HuYellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuYellow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me 📫
