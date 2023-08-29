@@ -1,6 +1,6 @@
 ## Hello, world! 👋
 
-**I am actively seeking for 2024 Software Engineer New Grad Position.**
+**I am actively seeking for 2024 Software Engineer New Grad Position in Mainland China and Hong Kong SAR.**
 
 Here's some information about me:
 
