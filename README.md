@@ -53,6 +53,10 @@ I'm currently focused on honing my backend skills, while remaining open to learn
 **Email 📧:** huyelong312@gmail.com || hu-yelong@qq.com
 
 **Phone 📞:** (+86) 186 7563 0213 || (+852) 6991 8215
+
+(**Linkedin**:)[https://www.linkedin.com/in/hu-yelong/]
+
+**脉脉：** [https://maimai.cn/profile/detail?dstu=237153956]
 <!--
 **HuYellow/HuYellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
