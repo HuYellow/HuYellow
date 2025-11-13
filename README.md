@@ -5,7 +5,7 @@ Here's some information about me:
 ## Education 📕
 |School|Major|Duration|
 |---|---|---|
-|City University of Hong Kong|Master of Science in Business & Data Analytics|2022.08 - 2023.10|
+|City University of Hong Kong|Master of Statistics(Science in Business & Data Analytics)|2022.08 - 2023.10|
 |Lanzhou University|Bachelors of Engineering in Data Science and Big Data Technology|2018.09 - 2022.06|
 
 ## Tech Stack 🔭
