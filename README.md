@@ -22,13 +22,17 @@
 | City University of Hong Kong | Master of Statistics (Science in Business & Data Analytics) | 2022.08 - 2023.10 |
 | Lanzhou University | Bachelor of Engineering in Data Science and Big Data Technology | 2018.09 - 2022.06 |
 
+## Work Experience
+
+- **Java Software Engineer**, 满帮集团 · `2024.03 - 至今`
+
 ## Tech Stack
 
 **Programming Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Databases**
@@ -61,7 +65,6 @@ I care about more than writing code for production. I also enjoy contributing th
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuYellow&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuYellow&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="170" alt="Top languages" />
 </div>
 
 ## Current Focus
