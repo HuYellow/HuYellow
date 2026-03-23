@@ -24,7 +24,7 @@
 
 ## Work Experience
 
-- **Java Software Engineer**, 满帮集团 · `2024.03 - 至今`
+- **Java Software Engineer**, Full Truck Alliance · `Mar 2024 - Present`
 
 ## Tech Stack
 
