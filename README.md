@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 Master's student background in **Statistics / Business & Data Analytics**
+- 🎓 Master's student background in **Statistics**
 - 💼 Software engineer focused on **backend engineering**, **data-driven systems**, and **AI-enabled products**
 - 🌱 Currently sharpening skills in **Java**, **distributed services**, **frontend collaboration**, and **LLM applications**
 - 🧠 I enjoy building reliable software, improving engineering efficiency, and contributing back to open-source communities
@@ -19,7 +19,7 @@
 
 | School | Major | Duration |
 | --- | --- | --- |
-| City University of Hong Kong | Master of Statistics (Science in Business & Data Analytics) | 2022.08 - 2023.10 |
+| City University of Hong Kong | Master of Statistics | 2022.08 - 2023.10 |
 | Lanzhou University | Bachelor of Engineering in Data Science and Big Data Technology | 2018.09 - 2022.06 |
 
 ## Work Experience
