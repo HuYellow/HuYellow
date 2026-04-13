@@ -75,10 +75,10 @@ I care about more than writing code for production. I also enjoy contributing th
 
 ## Safe Contact
 
-If you'd like to collaborate, the safest public way to reach me is on **LinkedIn**:
+If you'd like to collaborate, the public way to reach me:
 
-- [LinkedIn / Hu Yelong](https://www.linkedin.com/in/hu-yelong/)
 - [GitHub / @HuYellow](https://github.com/HuYellow)
+- [Gmail](huyelong312@gmail.com)
 
 ---
 
